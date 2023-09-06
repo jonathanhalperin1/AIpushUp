@@ -1,3 +1,0 @@
-streamlit
-cv2
-mediapipe
